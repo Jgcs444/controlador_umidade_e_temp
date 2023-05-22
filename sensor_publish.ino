@@ -1,13 +1,3 @@
-/************************************************
-This project uses ESP8266 NODEMCU ESP12-E and DHT11
-author: sergio lucio
-github: srg-lc
-email: sergiolucio.ns@gmail.com
-
-See README on https://github.com/srg-lc/IoT_Termometer
-for circuit scheeme and instructions
-PORTA 8
-*************************************************/
 
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
